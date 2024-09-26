@@ -6,5 +6,5 @@ if X < Y and Y < Z:
     print("Em ordem crescente")
 elif X > Y and Y > Z:
     print("Em ordem descrescente")
-Else:
+else:    
     print("Todos misturados")        
